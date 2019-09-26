@@ -16,6 +16,7 @@
 %>
 
 <body>
+	<marquee>	<h1> Java Based Application </h1> </marquee>
 	<div class="container">
 		<div>
 			<div class="panel-body">
