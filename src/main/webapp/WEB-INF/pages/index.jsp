@@ -15,7 +15,7 @@
 	PackageInfo info = PackageInfo.getInstance(ctx); 
 %>
 
-<body>
+<body bgcolor="beige" text="brown">
 	<marquee>	<h1> Java Based Application </h1> </marquee>
 	<div class="container">
 		<div>
